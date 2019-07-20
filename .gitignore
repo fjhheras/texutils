@@ -1,0 +1,8 @@
+__pycache__
+*.h5
+.ropeproject
+.ipynb*
+*.log
+*egg-info
+*.npy
+*.pdf
